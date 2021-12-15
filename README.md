@@ -1,5 +1,5 @@
 # Welcome
-Hey guys! We have a fiht for you!  
+Hey guys! We have a giht for you!  
 これは「CSSの無駄遣い」プロジェクトの中身です。  
 オープンソース。  
 詳細については紹介ページを参照してください。  
