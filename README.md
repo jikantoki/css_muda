@@ -6,9 +6,10 @@ Hey guys! We have a gift for you!
 [公式ホームページ](https://css.enoki.xyz "公式ホームページ")  
 # Reason for production
 __限りある資源CSSを無駄遣いし、SDGsに反抗しよう。__  
-# Preview
-こんな感じになるよ。
-![Previewimg](/img/screenshot001.jpg)
+# How2use
+詳細については紹介ページを参照してください。  
+[公式ホームページ](https://css.enoki.xyz "公式ホームページ")  
+[![Previewimg](/img/screenshot001.jpg)](https://css.enoki.xyz)  
 # Contact
 以下のURLからどうぞ。  
 [ときえのきホームページ](https://enoki.xyz "ときえのきホームページ")  
